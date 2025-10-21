@@ -1,2 +1,1 @@
-bin/** linguist-vendored
-etc/** linguist-vendored
+*/** linguist-vendored
